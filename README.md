@@ -14,4 +14,4 @@ A simple CLI Task Tracker built with Java.
 
 ## Project URL
 
-https://roadmap.sh/projects/task-tracker
+[https://roadmap.sh/projects/task-tracker](https://github.com/Jhonie29/Task-Tracker)
